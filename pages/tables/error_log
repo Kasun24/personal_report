@@ -1,0 +1,7 @@
+[22-Apr-2021 23:39:20 America/Boise] PHP Warning:  unlink(../uploads/1619080759_1404.png): No such file or directory in /home1/classlkc/public_html/summithsystem/pages/tables/visa.php on line 12
+[22-Apr-2021 23:39:32 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/classlkc/public_html/summithsystem/pages/tables/police1.php on line 9
+[22-Apr-2021 23:39:40 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/classlkc/public_html/summithsystem/pages/tables/police1.php on line 9
+[22-Apr-2021 23:43:15 America/Boise] PHP Warning:  unlink(../uploads/1618903931_8184.jpg): No such file or directory in /home1/classlkc/public_html/summithsystem/pages/tables/police1.php on line 12
+[22-Apr-2021 23:43:27 America/Boise] PHP Warning:  unlink(../uploads/1618913092_5023.jpg): No such file or directory in /home1/classlkc/public_html/summithsystem/pages/tables/police2.php on line 12
+[22-Apr-2021 23:43:36 America/Boise] PHP Warning:  unlink(../uploads/1618984982_5516.jpg): No such file or directory in /home1/classlkc/public_html/summithsystem/pages/tables/agreement.php on line 12
+[23-Apr-2021 00:02:57 America/Boise] PHP Warning:  unlink(../uploads/1619157727_3638.): No such file or directory in /home1/classlkc/public_html/summithsystem/pages/tables/visa.php on line 12
